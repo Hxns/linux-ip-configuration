@@ -1,6 +1,6 @@
 # Configuración de IP para VM en Debian y Kali
 
-Para permitir la comunicación entre las máquinas virtuales dentro de la red gestionada por el servidor DHCP en VirtualBox Host-Only Ethernet Adapter, es necesario realizar los ajustes en la configuración de red.
+Para permitir la comunicación entre las máquinas virtuales dentro de la red gestionada por el servidor DHCP en VirtualBox Host-Only Ethernet Adapter, es necesario realizar los siguientes ajustes:
 
 ## Debian
 
